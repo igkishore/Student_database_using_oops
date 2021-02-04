@@ -5,14 +5,14 @@
 </p>
 
 ## CONTENTS :
-1.INTRODUCTION
-2.TECH USED
-3.RESULTS 
-4.CONCLUSION AND FUTURE SCOPE
+- 1.INTRODUCTION
+- 2.TECH USED
+- 3.RESULTS 
+- 4.CONCLUSION AND FUTURE SCOPE
 
 ## INTRODUCTION:
 - This project is about a system which can help the school/college faculty to store the data about students easily in a file.
-- Easy to impliment and easy to maintainable 
+- Easy to impliment and easy to maintain.
 
 ## TECH USED:
 - cpp (c++)
