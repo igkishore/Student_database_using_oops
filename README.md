@@ -11,11 +11,24 @@
 5.RESULTS 
 6.CONCLUSION AND FUTURE SCOPE
 
-## INTRODUCTION
--
+## INTRODUCTION:
+- This project is about a system which can help the school/college faculty to store the data about students easily in a file.
+- Easy to impliment and easy to maintainable 
+
+## TECH USED:
+-cpp (c++)
+-Object Oriented Programming
+-File handling c++
+
+## BLOCK DIAGRAM
+
+## CODE EXPLANTION
+- The code 
+
+## RESULTS
 
 
-Topics used:
-c++
-OOPS
-file handling c++
+
+## FUTURE SCOPE
+- As a future work we can add new future and set up a new database instead of files
+- We can convert this application into a web application for better reach and UI.

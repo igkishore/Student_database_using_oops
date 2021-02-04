@@ -152,7 +152,7 @@ int main()
         cout<<endl;
         cout<<endl;
         cout<<endl;
-        cout<<"\t\tTHANK YOU FOR USING GK TECH !!!!!";
+        cout<<"\t\tTHANK YOU FOR CHOOSING US !!!!!";
         cout<<endl;
         cout<<endl;
         cout<<endl;
