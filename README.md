@@ -21,8 +21,8 @@
 
 ## RESULTS
 
- <img src="/assets/pic.png" alt="OOPS" width="300"  height="300">
-  <img src="/assets/pic(2).png" alt="OOPS" width="300"  height="300">
+ <img src="/assets/pic.png" alt="OOPS" width="600"  height="300">
+  <img src="/assets/pic(2).png" alt="OOPS" width="600"  height="300">
    <img src="/assets/pic(3).png" alt="OOPS" width="300"  height="300">
     <img src="/assets/pic(4).png" alt="OOPS" width="300"  height="300">
 
