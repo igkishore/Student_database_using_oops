@@ -3,7 +3,8 @@
 <p align="center">
     <img src="https://1.bp.blogspot.com/-HA1JLg8CIrg/Wce1ceOq8eI/AAAAAAAAEQA/X7aFjfjeHI4pgQHoQIGqn3v82_jkYDKsQCLcBGAs/s1600/OOPs1.png" alt="OOPS" width="300"  height="300">
 </p>
-## Contents 
+
+## Contents :
 1.INTRODUCTION
 2.TECH USED
 3.BLOCK DIAGRAM
@@ -16,9 +17,9 @@
 - Easy to impliment and easy to maintainable 
 
 ## TECH USED:
--cpp (c++)
--Object Oriented Programming
--File handling c++
+- cpp (c++)
+- Object Oriented Programming
+- File handling c++
 
 ## BLOCK DIAGRAM
 
